@@ -1,15 +1,15 @@
-# 🚀 AI Super App
+# AI Super App
 
 Aplikasi yang menggabungkan semua AI gratis dalam satu antarmuka.
 
-## ✨ Fitur
-- 🤖 Chat dengan AI (Groq Llama 3.2)
-- 🎨 Generate gambar (Stable Diffusion)
-- 🔊 Text-to-speech (gTTS)
-- 🎤 Speech-to-text (Whisper)
-- 📁 Upload & analisis file
+## Fitur
+- Chat dengan AI (Groq Llama 3.2)
+- Generate gambar (Stable Diffusion)
+- Text-to-speech (gTTS)
+- Speech-to-text (Whisper)
+- Upload & analisis file
 
-## 🚀 Instalasi Cepat
+## Instalasi Cepat
 
 ```bash
 # 1. Clone atau buat folder
@@ -30,26 +30,26 @@ echo "HUGGINGFACE_API_KEY=your_key_here" >> .env
 streamlit run app.py
 ```
 
-## 🔑 Dapatkan API Key Gratis
+## Dapatkan API Key Gratis
 
 1. **Groq API**: https://console.groq.com
 2. **Hugging Face**: https://huggingface.co/settings/tokens
 
-## 📱 Cara Menggunakan
+## Cara Menggunakan
 
 1. **Chat**: Ketik pesan seperti biasa
 2. **Gambar**: Ketik "buat gambar [deskripsi]"
 3. **Audio**: Ketik "baca teks ini" untuk TTS
 4. **Upload**: Upload gambar/audio untuk analisis
 
-## 🌐 Deployment
+##  Deployment
 
 ### Streamlit Cloud (Gratis)
 1. Push ke GitHub
 2. Buka https://share.streamlit.io
 3. Deploy dengan secrets untuk API keys
 
-## 📞 Bantuan
+## Bantuan
 
 Jika ada masalah:
 1. Cek API keys di sidebar
